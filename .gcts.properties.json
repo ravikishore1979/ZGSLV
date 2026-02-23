@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ZGSLV",
   "repositoryLayout": {
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/B6758C66DC5F1FD1848D5DB4D6858B86_0",
     "format": "json",
     "formatVersion": "6",
     "keepClient": "false",
