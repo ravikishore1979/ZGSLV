@@ -1,0 +1,22 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"INTF ZGSLV_ENGINE.asx.json",
+   "fingerprint":"JFYKsV5MjzkUo41ldWb9YjMe/YjYfBvcx+cKvlw5sp9qmjprI8aK7B3Wat0hCHOdOCp4lSMvONvAfzWKGl25Gw=="
+  },
+  {
+   "name":"REPS ZGSLV_ENGINE==================IP.abap",
+   "fingerprint":"aYeK+2LDf+KrIsQCFJjRioo6aZeGjoSKskjuYfM5UU5Iip8eKfBk9YVr1/R5WSxjxYJb3oVi2a86RHA5nnDbpg=="
+  },
+  {
+   "name":"REPS ZGSLV_ENGINE==================IT.abap",
+   "fingerprint":"b9+80kiZd7ZH49s85FGa+pA3LaX3zdwIDpuP8UmrgoT9AKzpMoD7RBm+4o+SgAefN1oOmZWCmDVZ14b5kQfeWg=="
+  },
+  {
+   "name":"REPS ZGSLV_ENGINE==================IU.abap",
+   "fingerprint":"thfsnNv3s9502ELMsuMGMenLMbYDL2vXsTZPyycfFvqJS6Mvi2YK/MFemgYE4VK20Wix7u+0IjLnJj2I1xlhWQ=="
+  }
+ ],
+ "fingerprintAll":"NBS36EczUg5uqE9Wdfup1CUwxH8xEl+740qyJ4uasZ3CxZ/wIU6g/HRPiF6OlxfliEPQVNre+Dcua8d2OLbrpg=="
+}

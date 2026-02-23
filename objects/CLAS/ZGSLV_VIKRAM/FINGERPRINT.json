@@ -1,0 +1,54 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZGSLV_VIKRAM==================CCAU.abap",
+   "fingerprint":"l/FDjJ5HL4UsmjxrxR3JJfV5cbRu7Tbk2QDylThUevwl7Cni+41wk/ZCXmR36rNsIVH3ufR0oTqDU4NkuDDEjA=="
+  },
+  {
+   "name":"CINC ZGSLV_VIKRAM==================CCDEF.abap",
+   "fingerprint":"pFNIUUfTlugTqMeQK5eIOayvywMRvO33X2MW0y3JLuQ+HTRkJH1ok9eL8Jksax1pSfo32noyYVGxL95UaWs6fA=="
+  },
+  {
+   "name":"CINC ZGSLV_VIKRAM==================CCIMP.abap",
+   "fingerprint":"Kt3s0tFdX80Y7nd8dWBYuBRpLwC24qDqIVoSD37BZ+6GpRxum1TYzdKG27pqypj8GWoQxLU9LSW0Sv0TzFDPIg=="
+  },
+  {
+   "name":"CINC ZGSLV_VIKRAM==================CCMAC.abap",
+   "fingerprint":"B+/XxLv+hmwf/KHg0+OXmFg6EsuBd6BSvwAi8VbOOJlqHA4OOf6fL9ww6784ltZPvxyAyxnGXJRPtrMLrEVBcA=="
+  },
+  {
+   "name":"CLAS ZGSLV_VIKRAM.asx.json",
+   "fingerprint":"LMaZOUCI2q6uJY2paivocqIqWgrCihzJxB5ZHgpGvxRucP+eBqgWeJfkEO6839FfvT0iiT4j0mz/7jcgVoG2/g=="
+  },
+  {
+   "name":"CLSD ZGSLV_VIKRAM.abap",
+   "fingerprint":"/+GcXtc1VnSMN+2XkTFSHhEo11/+lQ5lUEjI6yPb5VgoWRqUq1k8K0CXOzKYkVerONh5Jnir/cJc9+mGYeepbw=="
+  },
+  {
+   "name":"CPRI ZGSLV_VIKRAM.abap",
+   "fingerprint":"Yc3Daf3gb6IuW9Ly8+Eecxj2MEubd2GFC2C7ADiS3Gnjs8hIcCnKDt2TU0RXUTuq9EYV9PBCFtGrW82+NiT4nw=="
+  },
+  {
+   "name":"CPRO ZGSLV_VIKRAM.abap",
+   "fingerprint":"1PB3umSJCmhRs3E+scNfS/8pKjaslFPJrJJ/93O2lwyEqy0ToSf3/1h0ELXD1AQJME9RAdGX7jzLYUWcsCoRMA=="
+  },
+  {
+   "name":"CPUB ZGSLV_VIKRAM.abap",
+   "fingerprint":"vU1bJIRi17BcXy3Yg4tbiDdQD/gG70XE+XTqHrC4cOsl+uIao3KGi5AvzvQ/KHp/L+xxRnB1eFInVZuoV9z/Ww=="
+  },
+  {
+   "name":"METH CALCULATETHRUST.abap",
+   "fingerprint":"Ir7xweppUZZ6yPF2ZAGEK31+FcGLrQCf5bWhDK8xzzmUYVkV++hTUo5Jm5qxSlVtLLGn/RnKKZciUkkjtbsqLA=="
+  },
+  {
+   "name":"METH ZGSLV_ENGINE~CALCULATE_DISCOUNT.abap",
+   "fingerprint":"m3wdvpVSdZ1yolQxsX1iXORd23DLofBZaPlJtz2vXINYxWY4oENXiUxePmNB2scuOjqe+/q/z+1qNh+ieYA+bQ=="
+  },
+  {
+   "name":"REPS ZGSLV_VIKRAM==================CT.abap",
+   "fingerprint":"V7qTl1G81j+R/E5q3h0GLyxRm0WX3IBQ+ZdiFrmRFeYiE8cY5JaUjouMrWKKQcxzored/4gF6oulLE4Gx/KcgQ=="
+  }
+ ],
+ "fingerprintAll":"WA3iu01WnYpbnZz4djJ0qHsch8yeZIKQ/yQ1QZuM+4koLALvjwPgBQl3BZm8HpkNd1tXbFatf+B+ixbErkqpEA=="
+}
